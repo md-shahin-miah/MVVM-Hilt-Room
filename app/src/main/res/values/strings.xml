@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVM Hilt Room</string>
+    <string name="invalid_value">Invalid Value</string>
+</resources>
